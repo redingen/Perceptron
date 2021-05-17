@@ -9,6 +9,7 @@ To Run program:
 	cd Perceptron
 	source virtual/bin/activate
 	python3 perceptron1.py
+	close each time displayed figure to continue
 	deactivate
 	
 	
